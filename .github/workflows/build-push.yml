@@ -1,4 +1,4 @@
-name: How you like that NIBM?
+name: How you like that NIBM Image Push?
 on:
   push:
     branches:
